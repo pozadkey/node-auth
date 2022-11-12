@@ -1,0 +1,7 @@
+.env
+node_modules/
+Procfile
+/src/domains/
+/src/middlewares/
+/src/routes/
+/src/utils/
