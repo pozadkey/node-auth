@@ -7,14 +7,14 @@ const db = process.env.DB
 // Connect to DB
 const InitiateMongoServer = async () => {
   try {
-    mongoose.connect(db, {
+    await mongoose.connect(db, {
       useNewUrlParser: true,
       useUnifiedTopology: true
     });
     console.log("Connected to DB !!");
   } catch (e) {
-    console.log(e);
-    throw e;
+    console.log(`Unable to connect to DB.. ${e.message}`);
+    console.log();
   }
 };
 
