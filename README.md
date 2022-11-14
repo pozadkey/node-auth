@@ -1,4 +1,4 @@
-# node-auth
+# Node-Auth
 Node-Auth is a simple user authentication system API built in Node.js.
 
 ## Features
@@ -22,6 +22,7 @@ Go to the roor directory to run the following command to start the server
 
 ```
 node src/server
+```
 
 ## Documentation
-[View documentation](https://tapcapitals.com) for proper usage of the API.
+[View documentation](https://tapcapitals.com) for further usage of the API.
