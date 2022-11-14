@@ -18,7 +18,7 @@ npm install
 ```
 
 ## Usage
-Go to the roor directory to run the following command to start the server
+Go to the root directory and run the following command to start the server
 
 ```
 node src/server
