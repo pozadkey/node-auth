@@ -25,4 +25,4 @@ node src/server
 ```
 
 ## Documentation
-[View documentation](https://tapcapitals.com) for further usage of the API.
+[View documentation](https://documenter.getpostman.com/view/24398402/2s8YevpW1V) for further usage of the API.
